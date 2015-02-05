@@ -16,7 +16,6 @@ import Foundation
 
 /** ___FILEBASENAMEASIDENTIFIER___ Class
 
-Functions for converting values
 */
 class ___FILEBASENAMEASIDENTIFIER___ : UITableViewController {
 

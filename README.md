@@ -19,3 +19,4 @@ Current Templates
 
 **UITableView** - For UITableViewController
 
+**UIViewController** - For UIViewController

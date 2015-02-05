@@ -8,7 +8,9 @@
 
 import Foundation
 
+/** ___FILEBASENAMEASIDENTIFIER___ Class
 
+*/
 class ___FILEBASENAMEASIDENTIFIER___ {
     
     class var sharedInstance : ___FILEBASENAMEASIDENTIFIER___ {

@@ -9,7 +9,7 @@
 	<key>DefaultCompletionName</key>
 	<string>File</string>
 	<key>Description</key>
-	<string>An empty Swift file.</string>
+	<string>A UITableViewController</string>
 	<key>Kind</key>
 	<string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
 	<key>MainTemplateFile</key>
@@ -17,6 +17,6 @@
 	<key>SortOrder</key>
 	<string>5</string>
 	<key>Summary</key>
-	<string>A Swift Singleton</string>
+	<string>A Swift UITableViewcontroller</string>
 </dict>
 </plist>
