@@ -17,6 +17,4 @@ Current Templates
 =================
 **Singleton** - A Singleton Class
 
-**UITableView** - For UITableViewController
-
-**UIViewController** - For UIViewController
+**Swit Type** - Similar to the Objective-c File, which allows you to create a Protocol, Extension, Struct in swift
