@@ -7,6 +7,9 @@ Installation
 ===
 These can be added to your XCode by moving the Swift folder into ~Library/Developer/Xcode/Templates/File Templates/
 
+Or get them from [Alcatraz](https://github.com/supermarin/Alcatraz) which is the most easy way.
+
+
 To Use
 ===
 In a XCode Project.  
