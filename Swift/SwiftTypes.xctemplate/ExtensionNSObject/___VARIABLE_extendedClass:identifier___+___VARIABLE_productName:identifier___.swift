@@ -11,7 +11,7 @@ import Foundation
 /** ___FILEBASENAMEASIDENTIFIER___ Extends ___VARIABLE_extendedClass:identifier___
 
 */
-extension ___FILEBASENAMEASIDENTIFIER___ : ___VARIABLE_extendedClass:identifier___ {
+extension ___VARIABLE_extendedClass:identifier___ {
     
 
 }
