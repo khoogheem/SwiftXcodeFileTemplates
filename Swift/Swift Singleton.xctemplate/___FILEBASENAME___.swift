@@ -23,4 +23,6 @@ class ___FILEBASENAMEASIDENTIFIER___ {
         }
         return Static.instance!
     }
+    
+    private init(){}
 }
